@@ -8,7 +8,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) |
 | [yoda](https://github.com/Man-Jain/yoda) |
- 
+| [Novice-Paradigm/Hello-World](https://github.com/Novice-Paradigm/Hello-World) | 
 ## Bonus
 Microsoft is participating in Hacktoberfest this year! Details [here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/).
 
@@ -19,7 +19,6 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Dhruv Jain | IV | CSE |
 | Abhilash Tiwari | III | CSE |
 | Aakanksha Jain | III | CSE |
-| Sagar Parre | III | IT |
 | Abhishek Mohata | III | CSE |
 | Manank Patni | II | IT |
 | Abhimanyu Shekhawat | II | IT |
