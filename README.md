@@ -13,4 +13,5 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Name | Year | Branch |
 | --- | --- | --- |
 | Dhruv Jain | IV | CSE |
+| Sagar Parre | III | IT |
 | Abhilash Tiwari | III | CSE |
